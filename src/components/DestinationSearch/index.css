@@ -1,0 +1,7 @@
+/* Write your CSS here */
+img {
+  width: 200px;
+  height: 200px;
+  box-shadow: 2px 2px 2px 2px black;
+  border-radius: 10px;
+}
